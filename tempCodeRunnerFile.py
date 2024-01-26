@@ -1,1 +1,1 @@
-            if pratest[i]  !=  usertest[i] :
+e.info()
